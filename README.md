@@ -1,3 +1,3 @@
 # stkrolikiewicz <- nazwa profilu na githubie
 
--   [deploy](https://spotify-player-six.vercel.app/)
+-   [deploy](https://spotify-player-sk.vercel.app/)
