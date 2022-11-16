@@ -13,7 +13,7 @@ const Home: NextPageWithLayout = () => {
                 <link rel="icon" href="/favicon.icon" />
             </Head>
             <div>
-                <h1>DaftAcademy - WebApp2022</h1>
+                <h1>DaftAcademy - WebApp2022 - tutaj coś pisze</h1>
             </div>
         </Fragment>
     );
